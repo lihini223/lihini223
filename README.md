@@ -52,8 +52,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lihini223&show_icons=true&hide_border=true" />
+  <img align="left" alt="lihini223's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lihini223&show_icons=true&theme=radical" />
 
 </details>
 
