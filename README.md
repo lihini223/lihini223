@@ -45,7 +45,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [How to Learn Coding](https://medium.com/@lihininisansala95/how-to-learn-coding-f26bce37b817)
 <!-- BLOG-POST-LIST:END -->
 
 ---
