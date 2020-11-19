@@ -50,11 +50,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="lihini223's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lihini223&show_icons=true&theme=radical" />
-
-</details>
 
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
