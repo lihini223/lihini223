@@ -47,6 +47,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to Learn Coding](https://medium.com/@lihininisansala95/how-to-learn-coding-f26bce37b817)
 - [Hacktoberfest Journey](https://lihininisansala.medium.com/what-i-learned-from-hacktoberfest-ca9d24665536)
+- [Date time in python](https://lihininisansala.medium.com/how-to-work-with-datetime-module-in-python-d9cc480d917d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
