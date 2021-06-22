@@ -46,6 +46,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Learn Coding](https://medium.com/@lihininisansala95/how-to-learn-coding-f26bce37b817)
+- [Hacktoberfest Journey](https://lihininisansala.medium.com/what-i-learned-from-hacktoberfest-ca9d24665536)
 <!-- BLOG-POST-LIST:END -->
 
 ---
