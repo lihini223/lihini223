@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lihini Nisansala</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lihini223&label=Profile%20views&color=0e75b6&style=flat" alt="lihini223" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lihini223&label=Profile%20views&color=0e75b6&style=flat" alt="lihini223" /> </p>
 
-<p align="left"> <a href="https://twitter.com/lihininisansala" target="blank"><img src="https://img.shields.io/twitter/follow/lihininisansala?logo=twitter&style=for-the-badge" alt="lihininisansala" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lihininisansala" target="blank"><img src="https://img.shields.io/twitter/follow/lihininisansala?logo=twitter&style=for-the-badge" alt="lihininisansala" /></a> </p> -->
 
+### About Me
 - 🌱 I’m currently learning **AI, Machine Learning, Deep Learning, Project Management**
 
 - 👯 I’m looking to collaborate on **AI Researches**
