@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Find Scholarship Opportunities](https://lihininisansala.medium.com/how-to-find-scholarship-opportunities-c983ad0ced75?source=rss-1d21809dde10------2)
+- [The struggles students are having during a PhD](https://lihininisansala.medium.com/the-struggles-students-are-having-during-a-phd-895830d2d02?source=rss-1d21809dde10------2)
 - [3 Facts to Consider When Applying for a PhD](https://lihininisansala.medium.com/3-facts-to-consider-when-applying-for-a-phd-cf56c1eb8fe8?source=rss-1d21809dde10------2)
 - [My First Site at ScholarX Program](https://lihininisansala.medium.com/my-first-site-at-scholarx-program-f15490893343?source=rss-1d21809dde10------2)
-- [How to work with datetime module in python](https://lihininisansala.medium.com/how-to-work-with-datetime-module-in-python-d9cc480d917d?source=rss-1d21809dde10------2)
-- [What I Learned From Hacktoberfest](https://lihininisansala.medium.com/what-i-learned-from-hacktoberfest-ca9d24665536?source=rss-1d21809dde10------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
