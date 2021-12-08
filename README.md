@@ -18,10 +18,10 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Guide to Researching Your Research Topic](https://lihininisansala.medium.com/the-complete-guide-to-researching-your-research-topic-28985dc982b5?source=rss-1d21809dde10------2)
 - [Guide to Choose The Right Career Path for You](https://lihininisansala.medium.com/guide-to-choose-the-right-career-path-for-you-bacaefd4dde?source=rss-1d21809dde10------2)
 - [How to Find Scholarship Opportunities](https://lihininisansala.medium.com/how-to-find-scholarship-opportunities-c983ad0ced75?source=rss-1d21809dde10------2)
 - [The struggles students are having during a PhD](https://lihininisansala.medium.com/the-struggles-students-are-having-during-a-phd-895830d2d02?source=rss-1d21809dde10------2)
-- [3 Facts to Consider When Applying for a PhD](https://lihininisansala.medium.com/3-facts-to-consider-when-applying-for-a-phd-cf56c1eb8fe8?source=rss-1d21809dde10------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
