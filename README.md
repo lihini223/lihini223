@@ -24,6 +24,8 @@
 - [The struggles students are having during a PhD](https://lihininisansala.medium.com/the-struggles-students-are-having-during-a-phd-895830d2d02?source=rss-1d21809dde10------2)
 <!-- BLOG-POST-LIST:END -->
 
+[![@lihini_nisansala's Holopin board](https://holopin.me/lihini_nisansala)](https://holopin.io/@lihini_nisansala)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lihininisansala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lihininisansala" height="30" width="40" /></a>
