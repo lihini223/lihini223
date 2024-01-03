@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **lihininisansala95@gmail.com**
 
-- ⚡ Fun fact **I think I am more into working with various communities**
+
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
